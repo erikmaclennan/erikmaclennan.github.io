@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#toggle").click(function(){$(this).toggleClass("active"),$("#overlay").toggleClass("open")})}),$(document).keyup(function(e){27==e.keyCode&&($("#toggle").removeClass("active"),$("#overlay").removeClass("open"))});

@@ -1,0 +1,1 @@
+$(document).ready(function(){function n(n,a){return Math.floor(Math.random()*(a-n+1)+n)}var a=new Array,a=["Humans have noses."];n(0,116);$("#TIL em").text(a[0])});
