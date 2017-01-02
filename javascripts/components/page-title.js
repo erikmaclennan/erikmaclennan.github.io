@@ -1,1 +1,0 @@
-$(function(){var t=document.title;window.onblur=function(){document.title=alttitle},window.onfocus=function(){document.title=t}});
